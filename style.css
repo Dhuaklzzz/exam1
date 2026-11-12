@@ -136,6 +136,10 @@ table {
   width: 100%;
 }
 
+tbody {
+  height: 350px;
+}
+
 thead {
   background-color: #eef6ee;
   border: 1px solid #bbcabf99;
